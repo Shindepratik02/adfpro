@@ -1,0 +1,30 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "advanceadfactory"
+		},
+		"ls_adls_accountKey": {
+			"value": ""
+		},
+		"ls_db_password": {
+			"value": ""
+		},
+		"ls_adls_properties_typeProperties_url": {
+			"value": "https://adfadvancestgacct.dfs.core.windows.net/"
+		},
+		"ls_db_properties_typeProperties_server": {
+			"value": "advanceserversql.database.windows.net"
+		},
+		"ls_db_properties_typeProperties_database": {
+			"value": "advancesqldb"
+		},
+		"ls_db_properties_typeProperties_userName": {
+			"value": "pratikadmin"
+		},
+		"ls_rest_properties_typeProperties_url": {
+			"value": "https://pokeapi.co/api/v2/pokemon"
+		}
+	}
+}

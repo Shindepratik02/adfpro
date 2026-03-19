@@ -1,0 +1,9 @@
+{
+	"name": "advanceadfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "39fadea0-8b96-4939-ba94-233f3dc465df",
+		"tenantId": "ac629bd2-dd10-4286-8e35-db224fa92958"
+	}
+}
